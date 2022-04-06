@@ -1,4 +1,5 @@
 # HTML and CSS Code Refactor Challange 1
+Click [hear](https://ancosta993.github.io/HTML-CSS-Git-challange-code-refactor/) for the deployed website.
 
 ## The purpose of this project is: 
 * Replace various HTML elements with semantic HTML elements
