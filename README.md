@@ -27,4 +27,4 @@ Click [hear](https://ancosta993.github.io/HTML-CSS-Git-challange-code-refactor/)
 * Redundant codes were deleted and use the CSS chain selector for more concise code.
 
 ## Finished Website Screenshot
-  ![Final Product header](./assets/images/finished-site-image)
+  ![Final Product header](./assets/images/final-site-screenshot.png)
